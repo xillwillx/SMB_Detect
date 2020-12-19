@@ -1,3 +1,7 @@
+Account moved to: https://gitlab.com/illwill 
+
+
+
 # SMB_Detect
 2k/XP Detect - some old code to detect OS version on a network
 
